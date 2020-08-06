@@ -2,7 +2,7 @@
 
 A list of Lebanese non-profits that can help get aid to affected families from the recent disaster.
 
-### Please note that in this time of economic turmoil in Lebanon, direct money transfer/donations may not be as easy as they are in the US or other countries. Also some Lebanese non-profits may not have the capability to launch and maintain websites with donation capabilities.
+#### Please note that in this time of economic turmoil in Lebanon, direct money transfer/donations may not be as easy as they are in the US or other countries. Also some Lebanese non-profits may not have the capability to launch and maintain websites with donation capabilities.
 
 **Therefore**, I encourage you to get in direct contact with the non-profit you feel most comfortable with and see how you can help whether it's by sending money, care packages, or any way they might suggest and you feel okay doing. 
 
