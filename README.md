@@ -15,7 +15,7 @@ To that, I have put in with every item in the list a "trust level". A trust leve
 
 1. `Direct`: it means either I or a direct family member has a direct knowledge of this organization and the trust level is high.  
 
-2. `Direct word of mouth`: it means either I or a direct family member has heard about this directly from someone we know but we do not have direct contact with the organization. 
+2. `Direct word of mouth`: it means either I or a direct family member has heard about this non-profit directly from a person we know. However, we do not have direct contact with the organization. 
 
 3. `Word of mouth`: Simply an organization that have made its way to my social feed and the only verification I have is word of mouth. 
 
