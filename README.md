@@ -42,3 +42,9 @@ If you know of non profits that can help at this time, please feel free to contr
 
 - https://u-s-o-s.org/
 - Trust level: direct word of mouth
+
+
+### Ajialouna
+
+- https://www.ajialouna.org/index.php/en/
+- Trust level: direct word of mouth
