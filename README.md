@@ -25,7 +25,7 @@ If you know of non profits that can help at this time, please feel free to contr
 
 - Contact Email: hh@hammoudlawfirm.com
 - Profile: https://github.com/marwan-at-work/lebanon-nonprofits/blob/master/usuluna.pdf
-- Will offer direct help to people impact
+- Will offer direct help to impacted families. 
 - Trust level: direct
 
 ### 4 all causes
