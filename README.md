@@ -38,3 +38,8 @@ If you know of non profits that can help at this time, please feel free to contr
 - https://www.instagram.com/impact.lebanon/
 - https://www.justgiving.com/crowdfunding/lebanon-relief?utm_term=PYp7gXzyD
 - Trust level: word of mouth
+
+### Usus
+
+- https://u-s-o-s.org/
+- Trust level: direct word of mouth
